@@ -4,15 +4,9 @@
      자세한 적용 방법은 profile/SETUP.md 참고!
 ============================================================ -->
 
-<!-- 헤더 배너 (capsule-render) : text/desc 문구, color 자유롭게 수정 가능 -->
-<div align="center">
+# JuHeon Song
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&text=JuHeon%20Song&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Backend%20Developer%20who%20loves%20solving%20problems&descSize=18&descAlignY=58" width="100%" alt="header"/>
-
-<!-- 타이핑 애니메이션 (readme-typing-svg) : lines= 뒤 문구 수정 가능, 문구 구분은 ; -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6DB33F&center=true&vCenter=true&width=520&lines=Java+%2F+Spring+Backend+Developer;1%2C500%2B+commits+of+Algorithm+Practice;Always+Growing+%F0%9F%8C%B1" alt="typing"/>
-
-</div>
+Backend Developer · Java / Spring
 
 <br/>
 
@@ -81,7 +75,3 @@
 | 2024.11 | 조선대학교 프로그래밍 경진대회 <sub>(ICPC 서울 지역 예선 연계)</sub> | 🥈 은상 | 조선대학교 SW중심대학사업단 |
 | 2024.05 | GIST 알고리즘 마스터즈 | 🥉 동상 | GIST 알고리즘 마스터즈 |
 
-<br/>
-
-<!-- 푸터 배너 -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer" width="100%" alt="footer"/>
